@@ -1,8 +1,6 @@
 FirebaseDemo
 ============
 
-Steps:
-
 ###Installation
 Add line at **Podfile**:
 
@@ -64,7 +62,7 @@ Add `[self setupFirebaseOberver];` at `viewDidLoad` method.
 
 ![](http://res.cloudinary.com/rafaparadela/image/upload/v1405184682/demoFirebase_xzljhl.gif)
 
-[YouTube](https://www.youtube.com/watch?v=vc5ltZhtk8k).
+[Video](https://www.youtube.com/watch?v=vc5ltZhtk8k).
 
 
 
