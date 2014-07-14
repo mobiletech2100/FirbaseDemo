@@ -47,7 +47,7 @@
 - (void)setupFirebaseOberver{
     [self.myRootRef observeEventType:FEventTypeValue withBlock:^(FDataSnapshot *snapshot) {
         if(snapshot.value != [NSNull null]) {
-            self.myLabel.text = snapshot.value;
+            
         }
     }];
 }
